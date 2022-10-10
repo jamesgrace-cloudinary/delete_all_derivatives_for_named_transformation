@@ -18,4 +18,4 @@ Tool written in JavaScript that deletes all derived for a defined Named Transfor
   - `NAMED_TRANSFORMATION = 'example_named_transformation'`
     - **Named Transformation** - replace the `example_named_transformation` value from the account's Transformation > Named Transformations.
 
-:warning: *Note that **this script will delete all of the derivatives for a specified Named Transformation!** Pkease be certain that you have a clear understanding of this script's functionality prior to executing against a production Cloudinary sub-account.*
+:warning: *Note that **this script will delete all of the derivatives for a specified Named Transformation!** Please be certain that you have a clear understanding of this script's functionality prior to executing against a production Cloudinary sub-account.*
