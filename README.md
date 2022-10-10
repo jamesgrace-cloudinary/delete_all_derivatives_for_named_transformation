@@ -6,8 +6,8 @@ Tool written in JavaScript that deletes all derived for a defined Named Transfor
 - Node.js
 
 **Configuration:**
-- cloud_name: ''
-- api_key: ''
-- api_secret: ''
+- `cloud_name: ''`
+- `api_key: ''`
+- `api_secret: ''`
 
-- NAMED_TRANSFORMATION = ''
+- `NAMED_TRANSFORMATION = ''`
