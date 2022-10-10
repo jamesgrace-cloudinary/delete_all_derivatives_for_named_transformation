@@ -2,10 +2,10 @@
 
 Tool written in JavaScript that deletes all derived for a defined Named Transformation. Useful in scenarios where an exsiting Named Transformation may need to be updated but may have greater than 1000 existing derivatives.
 
-Requirements:
+**Requirements:**
 - Node.js
 
-Configuration
+**Configuration:**
 - cloud_name: ''
 - api_key: ''
 - api_secret: ''
