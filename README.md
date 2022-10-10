@@ -16,6 +16,6 @@ Tool written in JavaScript that deletes all derived for a defined Named Transfor
     - **API Secret** value from the account's Cloudinary Dashboard > Account Details.
 
   - `NAMED_TRANSFORMATION = ''`
-    - Named Transformation value from the account's Transformation > Named Transformations.
+    - Displayed **Named Transformation** value from the account's Transformation > Named Transformations.
 
-:warning: Note that this script will delete all of the derivatives for a specified Named Transformation. Pkease be certain that you have a clear understandong of this script's functionality prior to executing within a production envirnoment.
+:warning: Note that **this script will delete all of the derivatives for a specified Named Transformation!** Pkease be certain that you have a clear understanding of this script's functionality prior to executing against a production Cloudinary sub-account.
