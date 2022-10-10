@@ -5,8 +5,7 @@ Tool written in JavaScript that deletes all derived for a defined Named Transfor
 **Requirements:**
 - Node.js - (https://nodejs.org)
 
-
-##Configuration:##
+## Configuration:
 
 - `cloud_name: ''`
   - This is the Cloud Name from Cloudinary Dashboard Account Details.
