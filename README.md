@@ -7,9 +7,13 @@ Tool written in JavaScript that deletes all derived for a defined Named Transfor
 
 ## Configuration:
 
-- `cloud_name: ''`
-  - This is the Cloud Name from Cloudinary Dashboard Account Details.
-- `api_key: ''`
-- `api_secret: ''`
+- `delete_all_derivatives_for_named_transformation.js`
+  - `cloud_name: ''`
+    - Cloud Name value from Cloudinary Dashboard > Account Details.
+  - `api_key: ''`
+    - API Key value from Cloudinary Dashboard > Account Details.
+  - `api_secret: ''`
+    - API Secret value from Cloudinary Dashboard > Account Details.
 
-- `NAMED_TRANSFORMATION = ''`
+  - `NAMED_TRANSFORMATION = ''`
+    - Named Transformation value from.
