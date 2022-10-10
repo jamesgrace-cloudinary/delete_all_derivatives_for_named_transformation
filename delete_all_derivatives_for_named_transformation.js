@@ -17,7 +17,7 @@ NAMED_TRANSFORMATION = 'example_named_transformation';
 
 function listTransformationDetails(result, next_cursor = null) {
 
-console.log('Deleteing all derivatives + invalidating for the [ ' + NAMED_TRANSFORMATION + ' ] Named Transformation...');
+console.log('Deleting all derivatives + invalidating for the [ ' + NAMED_TRANSFORMATION + ' ] Named Transformation...');
 
 	cloudinary.api.transformation(NAMED_TRANSFORMATION,
 		{
